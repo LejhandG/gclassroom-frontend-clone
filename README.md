@@ -4,10 +4,10 @@
 - CSS
 
 ### Original Google Classroom Webpage
-![](https://postimg.cc/47vsVQDj)
+![](https://i.postimg.cc/xCh8rstj/classroom-actuak.png)
 
 ### Webpage Image of my code
-![](https://postimg.cc/18TmQt07)
+![](https://i.postimg.cc/tgRYFnsb/classroom-clone.png)
 
 ### Contact Me
 Contact me on Discord ID - Lejhand#8519 
